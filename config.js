@@ -11,46 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', false],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328','🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328']
+  ['528241264763', '👑 ✔️𝗔𝗹𝗰𝗮|𝗕𝗼𝘁 - Creador 👑', true],
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['528241264763'];
+global.prems = ['528241264763'];
 
-global.packname = 'KɪʟʟᴢN';
-global.author = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
-global.wm = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
-global.titulowm = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
-global.titulowm2 = `@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔`
-global.igfg = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
+global.packname = '✔️𝗔𝗹𝗰𝗮|𝗕𝗼𝘁';
+global.author = '@alcashop.ff';
+global.wm = '@alcashop.ff';
+global.titulowm = '@alcashop.ff';
+global.titulowm2 = `@alcashop.ff`
+global.igfg = '@alcashop.ff';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -75,9 +47,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKill - Bot`;
-global.gt = 'Kill - Bot';
-global.mysticbot = 'Kill - Bot';
+global.wm2 = `${dia} ${fecha}\n✔️𝗔𝗹𝗰𝗮|𝗕𝗼𝘁`;
+global.gt = 'Alca|Bot';
+global.mysticbot = 'Alca|Bot';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
